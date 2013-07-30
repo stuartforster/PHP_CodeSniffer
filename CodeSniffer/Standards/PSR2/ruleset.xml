@@ -136,6 +136,7 @@
  <rule ref="PEAR.Functions.FunctionCallSignature">
   <properties>
    <property name="allowMultipleArguments" value="false"/>
+   <property name="allowSameLineArray" value="true"/>
   </properties>
  </rule>
  <rule ref="PEAR.Functions.FunctionCallSignature.SpaceAfterCloseBracket">
